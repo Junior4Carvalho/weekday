@@ -14,4 +14,4 @@ if ask.capitalize() in week:
 else:
     print("Type only what's on this list: \n {} ".format(week))
     
-#Copyright__@Junior_Carvalho06
+ #Copyright-@Junior4Carvalho
